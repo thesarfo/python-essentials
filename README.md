@@ -6,3 +6,5 @@ It currently contains:
 2. Calculator built using Tkinter
 
 I will be updating it occassionally
+
+PS: Some of these projects will be built with specific modules so you need to have those modules installed in order to run those files
