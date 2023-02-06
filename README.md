@@ -4,6 +4,7 @@ This is a repository that contains python projects I have built as an entry leve
 It currently contains:
 1. Temperature Converter
 2. Calculator built using Tkinter
+3. Password Generator
 
 I will be updating it occassionally
 
