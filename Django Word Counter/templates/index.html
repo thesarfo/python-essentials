@@ -9,7 +9,8 @@
   <body>
     <div class="main">
       <h2 style="color: white">Input text in the area below</h2>
-      <form method="" action="counter">
+      <form method="POST" action="counter">
+        {%csrf_token%}
         <textarea name="text" id="" cols="50" rows="10"></textarea> <br />
         <input type="submit" />
       </form>
