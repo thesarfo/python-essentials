@@ -1,4 +1,4 @@
-# entry-level-python
+# python essentials
 This is a repository that contains python projects I have built as a learner;
 
 It currently contains:
