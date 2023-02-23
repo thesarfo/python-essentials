@@ -10,6 +10,7 @@ It currently contains:
 6. Birthday Database
 7. Tictactoe Game
 8. UG Grading System
+9. Rock Paper Scissors Game
 
 
 I will be updating it occassionally
