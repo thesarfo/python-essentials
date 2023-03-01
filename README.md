@@ -11,7 +11,7 @@ It currently contains:
 7. Tictactoe Game
 8. UG Grading System
 9. Rock Paper Scissors Game
-
+10. Gpa Calculator
 
 I will be updating it occassionally
 
