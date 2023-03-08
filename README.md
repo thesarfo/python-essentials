@@ -12,6 +12,7 @@ It currently contains:
 8. UG Grading System
 9. Rock Paper Scissors Game
 10. Gpa Calculator
+11. Chatbot
 
 I will be updating it occassionally
 
