@@ -1,18 +1,25 @@
-birthdays = {'Alice': 'Apr 1', 'Bob': 'Dec 12', 'Carol': 'Mar 4'}
+import random
 
-while True:
-    print('Enter a name: (blank to quit)')
-    name = input()
-    if name == '':
-        break
+print("Welcome to the guessing game! You have 7 tries and 3 hints.")
+number = random.randint(1, 100)
+guesses = 0
+hints = 0
 
-    if name in birthdays:
-        print(birthdays[name] + ' is the birthday of ' + name)
-    else:
-        print('I do not have birthday information for ' + name)
-        print('What is their birthday?')
-        bday = input()
-        birthdays[name] = bday
-        print('Birthday database updated.')
+for i in range(7):
+	guess = int(input("Guess a number between 1 and 100: "))
+	guesses += 1
+	
+	if guess < number:
+		print("Too low!")
+	elif guess > number:
+		print("Too high!")
+	else:
+		print("Congratulations, you guessed the number in", guesses, "guesses!")
+		break
+	
+	if guesses == 4 and hints < 3:
+		print("Hint: The number is between", number-10, "and", number+10)
+		hints += 1
 
-# The updates performed to the database is forgotten when the program terminates
+if guesses == 7:
+	print("Sorry, you didn't guess the number. The number was", number)
