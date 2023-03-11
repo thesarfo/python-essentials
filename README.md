@@ -13,6 +13,7 @@ It currently contains:
 9. Rock Paper Scissors Game
 10. Gpa Calculator
 11. Chatbot
+12. RGB to HEX converter
 
 I will be updating it occassionally
 
