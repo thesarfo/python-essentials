@@ -18,6 +18,7 @@ It currently contains:
 14. Snake game
 15. Ping pong game
 16. Password locker/checker
+17. Basic server
 
 I will be updating it occassionally
 
