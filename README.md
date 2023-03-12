@@ -14,6 +14,7 @@ It currently contains:
 10. Gpa Calculator
 11. Chatbot
 12. RGB to HEX converter
+13. Dice rolling simulator
 
 I will be updating it occassionally
 
