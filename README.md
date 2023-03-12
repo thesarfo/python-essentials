@@ -15,6 +15,9 @@ It currently contains:
 11. Chatbot
 12. RGB to HEX converter
 13. Dice rolling simulator
+14. Snake game
+15. Ping pong game
+16. Password locker/checker
 
 I will be updating it occassionally
 
