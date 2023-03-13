@@ -19,6 +19,7 @@ It currently contains:
 15. Ping pong game
 16. Password locker/checker
 17. Basic server
+20. Quote generator 
 
 I will be updating it occassionally
 
