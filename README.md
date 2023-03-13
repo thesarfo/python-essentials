@@ -1,5 +1,5 @@
 # python essentials
-This is a repository that contains python projects I have built as a learner;
+Practicing my python knowledge 
 
 It currently contains:
 1. Temperature Converter
